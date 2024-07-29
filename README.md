@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abbatrombone I like learning new things and creating Linux tools to make it easier for new users
-- 👀 I’m interested in ...
+- 👀 I’m interested in shells
 - 🌱 I’m currently learning bash and java
 - 💞️ I’m looking to collaborate on any project that comes my way
-- 📫 How to reach me ...
+- 📫 How to reach me TBD
 - 😄 Pronouns: Call me anything inculding for a pull request. 
 - ⚡ Fun fact: don't type (){:|:&} into your bash scripts
