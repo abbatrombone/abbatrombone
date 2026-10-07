@@ -2,7 +2,7 @@
 - 👀 I’m interested in shells
 - 🌱 I’m currently learning bash and java
 - 💞️ I’m looking to collaborate on any project that comes my way
-- 📫 How to reach me TBD
+- 📫 How to reach me redggreen@gmail.com
 - I have years of expirencing with SQL, if you need help feel free to reach out
 - 😄 Pronouns: Call me anything inculding for a pull request. 
 - ⚡ Fun fact: don't type (){:|:&} into your bash scripts
